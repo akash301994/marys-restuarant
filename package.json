@@ -1,0 +1,22 @@
+{
+  "name": "marys-restuarant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash301994/marys-restuarant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash301994/marys-restuarant/issues"
+  },
+  "homepage": "https://github.com/akash301994/marys-restuarant#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
